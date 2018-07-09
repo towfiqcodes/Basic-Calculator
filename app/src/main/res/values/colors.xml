@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorNumericButton">#566573</color>
+    <color name="colorOtherButton">#959494</color>
+    <color name="colorNumericStart">#D5DBDB</color>
+    <color name="colorNumericEnd">#85929E</color>
+    <color name="colorNumericCenter">#AEB6BF</color>
+    <color name="colorEqualStart">#3498DB</color>
+    <color name="colorEqualEnd">#2471A3</color>
+    <color name="colorSignStart">#F2F4F4</color>
+    <color name="colorSignCenter">#2471A3</color>
+    <color name="colorSignEnd">#3498DB</color>
+
+
+</resources>
